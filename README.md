@@ -1,62 +1,50 @@
-# Meme Gallery - Flutter API Integration Example
+# 🤖 Random Memes App
 
-This project demonstrates a clean architecture approach to API integration in Flutter. It fetches and displays memes from the Imgflip API.
+A simple and fun cross-platform memes app built using **Flutter**. It fetches random memes from an open meme API using HTTP and displays them in a clean UI. This project is great for learning API integration and Flutter basics.
 
-## Features
+---
 
-- Display memes in a masonry grid layout
-- View detailed information about each meme
-- Clean architecture implementation
-- Proper error handling
-- Loading states with shimmer effects
+## 🚀 Features
 
-## Architecture Overview
+- 🖼️ Fetches memes from a public meme API
+- 📱 Cross-platform support (Android & iOS)
+- 🔁 Pull to refresh memes
+- 🌐 Uses HTTP for API calls
+- 📦 Lightweight and clean architecture
 
-The app is organized using Clean Architecture principles with three main layers:
+---
 
-### 1. Domain Layer
+## 📸 Screenshots
 
-The core business logic independent of any framework:
+<p float="left">
+  <img src="screenshots/home.png" width="200" />
+  <img src="screenshots/loading.png" width="200" />
+  <img src="screenshots/meme.png" width="200" />
+</p>
 
-- **Entities**: Pure Dart classes representing core data (Meme)
-- **Use Cases**: Single-purpose classes for business logic (GetMemesUseCase)
-- **Repository Interfaces**: Defines contracts for data operations
+> Add your screenshots in the `screenshots/` folder
 
-### 2. Data Layer
+---
 
-Implements the data access logic:
+## 🎥 Demo Video
 
-- **Models**: Data classes that extend entities with additional functionality
-- **Repositories**: Implementation of domain repositories
-- **Data Sources**: Actual API implementations (remote, local, etc.)
+https://github.com/yourusername/random-memes-app/assets/yourvideo.mp4  
+_(Upload the video under the "Releases" or "Assets" section on GitHub or link to YouTube)_
 
-### 3. Presentation Layer
+---
 
-The UI components and state management:
+## 🛠️ Built With
 
-- **Screens**: UI pages (MemeListScreen, MemeDetailScreen)
-- **Widgets**: Reusable UI components (MemeCard)
-- **Providers**: State management (MemeProvider)
+- [Flutter](https://flutter.dev)
+- [Dio / http](https://pub.dev/packages/http) for HTTP requests
+- Meme API (e.g., `https://meme-api.com/gimme`)
 
-## Dependencies
+---
 
-- **http**: For API requests
-- **provider**: State management
-- **cached_network_image**: Image caching and loading
-- **shimmer**: Loading effect animations
-- **get_it**: Dependency injection
-- **dartz**: Functional programming concepts (Either type for error handling)
-- **flutter_staggered_grid_view**: Masonry grid layout
+## 📦 Installation
 
-## API Integration
-
-This app demonstrates integration with the [Imgflip API](https://api.imgflip.com/get_memes), which provides a collection of popular meme templates.
-
-## Key Concepts Demonstrated
-
-1. Proper separation of concerns
-2. Dependency injection
-3. Repository pattern
-4. Error handling with Either type
-5. Clean UI with loading states
-6. Responsive layouts
+```bash
+git clone https://github.com/tanvir-chy-ahmed/memeflix-crossplatform
+cd memeflix-crossplatform
+flutter pub get
+flutter run
