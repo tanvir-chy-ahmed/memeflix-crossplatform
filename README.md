@@ -27,10 +27,10 @@ Welcome to **MemeFlix**, a fun and lightweight cross-platform mobile app that fe
 > Tanvir ahmed (chy)
 
 
+
 ### 🔹 Watch Demo Video
 
-🎬 https://github.com/user-attachments/assets/98f07047-f854-4e0a-ba9a-c23bed36e8c0
-
+🎬 [Click to Watch the App in Action](https://github.com/user-attachments/assets/98f07047-f854-4e0a-ba9a-c23bed36e8c0)
 
 ---
 
@@ -90,6 +90,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 🙋 Author
 
-**Tanvir Ahmed**  
-📧 Email: your.email@example.com  
+**Tanvir Ahmed chowdhury**  
+📧 Email: tanvirchy269@gmail.com
 🌐 GitHub: [@tanvir-chy-ahmed](https://github.com/tanvir-chy-ahmed)
