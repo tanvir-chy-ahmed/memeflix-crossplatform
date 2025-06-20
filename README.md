@@ -24,7 +24,13 @@ Welcome to **MemeFlix**, a fun and lightweight cross-platform mobile app that fe
 </div>
 
 
-> Make sure to add your screenshots inside the `screenshots/` folder.
+> Tanvir ahmed (chy)
+
+
+### 🔹 Watch Demo Video
+
+🎬 [Click to Watch the App in Action](https://github.com/user-attachments/assets/98f07047-f854-4e0a-ba9a-c23bed36e8c0)
+
 
 ---
 
