@@ -58,7 +58,7 @@ flutter run
 
 Using:  
 ```bash
-https://meme-api.com/gimme
+https://api.imgflip.com/get_memes
 ```
 
 This API returns random memes from Reddit in JSON format.
