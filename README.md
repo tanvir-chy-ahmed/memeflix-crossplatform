@@ -29,7 +29,7 @@ Welcome to **MemeFlix**, a fun and lightweight cross-platform mobile app that fe
 
 ### 🔹 Watch Demo Video
 
-🎬 [Click to Watch the App in Action](https://github.com/user-attachments/assets/98f07047-f854-4e0a-ba9a-c23bed36e8c0)
+🎬 https://github.com/user-attachments/assets/98f07047-f854-4e0a-ba9a-c23bed36e8c0
 
 
 ---
