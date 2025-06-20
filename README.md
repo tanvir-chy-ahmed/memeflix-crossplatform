@@ -18,22 +18,17 @@ Welcome to **MemeFlix**, a fun and lightweight cross-platform mobile app that fe
 
 ### 🔹 Screenshots
 
-<p float="left">
-  <img src="screenshots/home.png" width="200" />
-  <img src="screenshots/loading.png" width="200" />
-  <img src="screenshots/meme.png" width="200" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c0386fe4-da87-410b-9f2f-cbe7943dfdd1" alt="Meme Screenshot 1" width="45%" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/a01372f6-7a1f-41c4-b16e-eb395d2a394d" alt="Meme Screenshot 2" width="45%" style="margin: 10px;" />
+</div>
+
 
 > Make sure to add your screenshots inside the `screenshots/` folder.
 
 ---
 
-### 🔹 Demo Video
 
-[▶️ Watch Demo](https://github.com/tanvir-chy-ahmed/memeflix-crossplatform/assets/demo.mp4)  
-_(You can upload a `.mp4` or YouTube video link here)_
-
----
 
 ## 🔧 Installation
 
